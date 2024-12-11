@@ -3,7 +3,7 @@ package com.dao;
 import java.io.*; // 파일 입출력과 관련된 클래스
 import java.sql.*; // DB 연결과 SQL 쿼리 실행 등 DB 관련 기능을 제공하는 클래스
 
-//PPT05강: JDBC Programming (p29)
+//PPT05강: JDBC Programming (p29) - 데이터베이스의 검색과 출력
 public class JDBC_Ex2 {
 	
 	public static void main(String[] args) {	
